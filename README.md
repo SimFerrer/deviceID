@@ -4,12 +4,12 @@ DEVICE ID PROJECT
 
 ## Get started
 
-Pour exécuter l'application sur un appareil ou un émulateur Android, utilisez :
+To run the application on an Android device or emulator
 ```bash
 npm expo run:android
 ```
 
-Pour build une apk
+To build an apk
 
 ```bash
 npx expo prebuild
